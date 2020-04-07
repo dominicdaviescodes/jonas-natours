@@ -20,8 +20,8 @@ body {
   font-size: 16px;
   line-height: 1.7;
   color: #777;
-  // white border around whole web page
-  padding: 3rem;
+  /* white border around whole web page */
+  padding: 30px;
 }
 
 .header {
@@ -33,3 +33,5 @@ body {
   background-size: cover;
   background-position: top;
 }
+
+clipPath: polygon(x y, x y, x y)
